@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.avatar {
+    height: 19vh;
+}
+.hr1 {border-top:2px solid black
+}
+.schoollogo {
+    width: 5vw;
+    height: 3vw;
+}
+ul { 
+    display:inline-block
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.codeexample {
+    display: flex;
+    justify-content: center;
+    white-space: pre-wrap;
+}
