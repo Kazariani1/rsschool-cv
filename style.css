@@ -3,7 +3,6 @@ body {
     font-family: Arial, sans-serif;
 }
 .avatar {
-    width: 12vw; 
     height: 19vh;
 }
 .hr1 {border-top:2px solid black
@@ -14,4 +13,14 @@ body {
 }
 ul { 
     display:inline-block
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.codeexample {
+    display: flex;
+    justify-content: center;
+    white-space: pre-wrap;
 }
