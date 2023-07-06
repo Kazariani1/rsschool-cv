@@ -1,7 +1,17 @@
 body {
+    text-align: center;
     font-family: Arial, sans-serif;
 }
 .avatar {
     width: 12vw; 
     height: 19vh;
+}
+.hr1 {border-top:2px solid black
+}
+.schoollogo {
+    width: 5vw;
+    height: 3vw;
+}
+ul { 
+    display:inline-block
 }
